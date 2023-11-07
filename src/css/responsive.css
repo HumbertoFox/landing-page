@@ -1,0 +1,37 @@
+@media (max-width: 1200px) {
+    .quem-somos .conteudo {
+        flex-direction: column;
+        text-align: center;
+        padding: 100px 30px;
+    }
+    .quem-somos .conteudo .informacoes {
+        width: 100%;
+    }
+    .quem-somos .conteudo .imagem {
+            display: none;
+    }
+}
+
+@media (max-width: 900px) {
+    .conteudo-principal .paineis {
+        height: 500px;
+    }
+}
+
+@media (max-width: 580px) {
+    .cabecalho {
+        justify-content: center;
+    }
+    .cabecalho .logo {
+        margin-bottom: 30px;
+    }
+    .cabecalho .navegacao .menu .item a {
+        font-size: calc(.6em + 1vw);
+    }
+    .rodape .navegacao {
+        justify-content: center;
+    }
+    .rodape .navegacao .logo {
+        margin-bottom: 30px;
+    }
+}
