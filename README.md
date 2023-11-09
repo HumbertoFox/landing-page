@@ -27,7 +27,7 @@ Os desafios do Dev em Dobro ajudam você a melhorar suas habilidades de codifica
 - Marcação semântica HTML5
 - Propriedades personalizadas CSS
 - Caixa flexível
-- Js com Fetch e GitHub API
+- JavaScript
 
 ## Desenvolvido em:
 
