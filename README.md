@@ -6,7 +6,7 @@ Os desafios do Dev em Dobro ajudam você a melhorar suas habilidades de codifica
 
 <div align="center">
 
-  <img src="" width="400px"/>
+  <img src="https://github.com/HumbertoFox/repository/assets/126817628/1ae62ccd-a74e-434d-aa4c-967119b86c7d" width="400px"/>
 
 </div>
 
